@@ -18,7 +18,7 @@ books =[
         "author": "Warren Zanes",
         "isbn": "13-9780304936588",
         "price": 10.00,
-        "image": "new petty.gif"
+        "image": "new petty.gif",
         "readNow":0
     },
     {
@@ -28,7 +28,7 @@ books =[
         "author": "N.T.Wright",
         "isbn": "13-9780312287863",
         "price": 100.00,
-        "image": "paul.gif"
+        "image": "paul.gif",
         "readNow":1
     },
     {
@@ -38,7 +38,7 @@ books =[
         "author": "Simon Sebag Montefiore",
         "isbn": "13-9780767925365",
         "price": 112.00,
-        "image": "jerusalem.gif"
+        "image": "jerusalem.gif",
         "readNow":1
     },
     {
@@ -48,7 +48,7 @@ books =[
         "author": "Amy Odell",
         "isbn": "13-9780303608037",
         "price": 99.00,
-        "image": "anaa.gif"
+        "image": "anna.gif",
         "readNow":0
     },
     
@@ -61,7 +61,7 @@ books =[
         "author": "Mel Robbins, Sawyer Robbins",
         "isbn": "13-9780634069321",
         "price": 199.00,
-        "image": "The Let Them Theory A Life-Changing Tool That Millions of People Can't Stop Talking About.gif"
+        "image": "The Let Them Theory A Life-Changing Tool That Millions of People Can't Stop Talking About.gif",
         "readNow":1
     },
     {
@@ -71,7 +71,7 @@ books =[
         "author": "Jonathan Haidt",
         "isbn": "13-9780571538163",
         "price": 2000.00,
-        "image": "The Anxious Generation How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.gif"
+        "image": "The Anxious Generation How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.gif",
         "readNow":0
     },
     {
@@ -81,7 +81,7 @@ books =[
         "author": "Joseph Nguyen",
         "isbn": "13-9781423481780",
         "price": 2000.00,
-        "image": "Don't Believe Everything You Think (Expanded Edition) Why Your Thinking Is The Beginning & End Of Suffering.gif"
+        "image": "Don't Believe Everything You Think (Expanded Edition) Why Your Thinking Is The Beginning & End Of Suffering.gif",
         "readNow":0
     },
     {
@@ -91,7 +91,7 @@ books =[
         "author": "Bessel Van Der Kolk",
         "isbn": "13-9780634069329",
         "price": 1999.00,
-        "image": "The Body Keeps the Score Brain, Mind, and Body in the Healing of Trauma.gif"
+        "image": "The Body Keeps the Score Brain, Mind, and Body in the Healing of Trauma.gif",
         "readNow":0
     },
 
@@ -102,7 +102,7 @@ books =[
         "author": "Hillsdale College Politics Faculty",
         "isbn": "13-9781423492724",
         "price": 999.99,
-        "image": "The U.S. Constitution A Reader.gif"
+        "image": "The U.S. Constitution A Reader.gif",
         "readNow":1
     },
     {
@@ -112,7 +112,7 @@ books =[
         "author": "Aristotle",
         "isbn": "13-9780131832020",
         "price": 62.88,
-        "image": "Politics.gif"
+        "image": "Politics.gif",
         "readNow":0
     },
     {
@@ -122,7 +122,7 @@ books =[
         "author": "Unpopular Politics",
         "isbn": "13-9780131832021",
         "price": 77.77,
-        "image": "The Boy Who Cried Race The White Guilt Messiah Complex, Democrats And Black Victims.gif"
+        "image": "The Boy Who Cried Race The White Guilt Messiah Complex, Democrats And Black Victims.gif",
         "readNow":1
     },
     {
@@ -132,7 +132,7 @@ books =[
         "author": "Jason Stanley",
         "isbn": "13-9780634086786",
         "price": 15.99,
-        "image": "How Fascism Works The Politics of Us and Them.gif"
+        "image": "How Fascism Works The Politics of Us and Them.gif",
         "readNow":1
     },
 
@@ -143,7 +143,7 @@ books =[
         "author": "Donna Tartt",
         "isbn": "13-9780793512737",
         "price": 17.99,
-        "image": "The Secret History.gif"
+        "image": "The Secret History.gif",
         "readNow":1
     },
     {
@@ -153,7 +153,7 @@ books =[
         "author": "Captivating History",
         "isbn": "13-9780634069321",
         "price": 18.99,
-        "image": "American History for Kids A Captivating Guide to Major Events in US History.gif"
+        "image": "American History for Kids A Captivating Guide to Major Events in US History.gif",
         "readNow":1
     },
     {
@@ -163,7 +163,7 @@ books =[
         "author": "Herodotus",
         "isbn": "13-9780793512598",
         "price": 20.00,
-        "image": "The Histories.gif"
+        "image": "The Histories.gif",
         "readNow":1
     },
     {
